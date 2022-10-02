@@ -1,0 +1,65 @@
+[
+  {
+    "id": "63396ab7c309a9983d417f01",
+    "email": "vivian@free.pl",
+    "username": "roach92",
+    "firstname": "Vivian",
+    "lastname": "Roach",
+    "about": "Elit aliqua fugiat magna quis eu eiusmod Lorem consequat velit adipisicing dolor deserunt proident consequat. Amet nulla non culpa tempor.",
+    "dob": "1992-03-15"
+  },
+  {
+    "id": "63396ab7adfc1a42a97ec49f",
+    "email": "carissa@free.sew",
+    "username": "contreras91",
+    "firstname": "Carissa",
+    "lastname": "Contreras",
+    "about": "Est adipisicing ex esse nulla sint deserunt proident ea aliqua culpa magna laboris nisi irure. Deserunt labore magna fugiat fugiat reprehenderit nostrud duis esse ad quis non cupidatat.",
+    "dob": "1991-05-09"
+  },
+  {
+    "id": "63396ab7fc9602d56cdac121",
+    "email": "mayo@free.in",
+    "username": "boone90",
+    "firstname": "Mayo",
+    "lastname": "Boone",
+    "about": "Cillum proident ex nisi minim nostrud non qui ullamco in. Ex duis incididunt officia voluptate nisi ullamco.",
+    "dob": "1990-11-16"
+  },
+  {
+    "id": "63396ab705f3a5be4a55966a",
+    "email": "yvette@free.support",
+    "username": "guy90",
+    "firstname": "Yvette",
+    "lastname": "Guy",
+    "about": "Dolor ullamco laboris ipsum cillum dolor duis esse. Ex excepteur nisi quis excepteur aliqua cillum excepteur officia eiusmod nisi dolore Lorem.",
+    "dob": "1990-02-16"
+  },
+  {
+    "id": "63396ab7cd6dde7c4d6b7af2",
+    "email": "clara@free.care",
+    "username": "stuart89",
+    "firstname": "Clara",
+    "lastname": "Stuart",
+    "about": "Velit aliquip adipisicing aliquip in magna aliqua magna non. Sint sunt in pariatur sunt et eiusmod tempor.",
+    "dob": "1989-02-03"
+  },
+  {
+    "id": "63396ab78ad1b742a1d384d2",
+    "email": "ruiz@free.hu",
+    "username": "chaney88",
+    "firstname": "Ruiz",
+    "lastname": "Chaney",
+    "about": "Id ex nisi aliqua dolore incididunt irure magna eiusmod labore est laborum dolor. Voluptate et do do consequat officia cupidatat cupidatat ex consectetur laboris.",
+    "dob": "1988-09-27"
+  },
+  {
+    "id": "63396ab751f641f80a0882a4",
+    "email": "hale@free.mini",
+    "username": "hammond88",
+    "firstname": "Hale",
+    "lastname": "Hammond",
+    "about": "Sunt culpa aute amet adipisicing officia non sunt ex ullamco deserunt. Eiusmod excepteur adipisicing consectetur proident.",
+    "dob": "1988-07-27"
+  }
+]
