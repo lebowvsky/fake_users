@@ -29,28 +29,5 @@
     "about": "Exercitation Lorem elit enim pariatur anim. Occaecat deserunt mollit nostrud sunt.",
     "firstname": "Amelia"
   },
-  {
-    "id": "63396c6777dcb46bfb243fc7",
-    "dob": "1991-06-11",
-    "about": "Est laborum excepteur anim cupidatat. Laboris consectetur velit laborum quis fugiat cillum culpa esse laboris cillum velit.",
-    "firstname": "Norris"
-  },
-  {
-    "id": "63396c6797442b3ca10df3fe",
-    "dob": "1990-11-28",
-    "about": "Do nisi nulla consectetur dolor commodo qui sunt nostrud veniam incididunt qui. Officia tempor nulla consequat minim proident veniam voluptate mollit ipsum eu elit veniam laborum.",
-    "firstname": "Haley"
-  },
-  {
-    "id": "63396c67a3577581ad078a3f",
-    "dob": "1993-06-18",
-    "about": "Dolore minim cupidatat consectetur non. Sit veniam nulla tempor sit duis magna id veniam aliquip consectetur magna.",
-    "firstname": "Deirdre"
-  },
-  {
-    "id": "63396c678997c039d6834be1",
-    "dob": "1992-09-27",
-    "about": "Exercitation non deserunt excepteur exercitation cillum eu magna exercitation. Commodo amet veniam officia dolore laborum laboris duis labore commodo reprehenderit do sunt nostrud.",
-    "firstname": "Figueroa"
-  }
+  
 ]
