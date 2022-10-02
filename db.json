@@ -1,32 +1,22 @@
 [
   {
     "id": "63396d6059b5be38a5187ca0",
-    "firstname": "Leonor",
-    "about": "Qui excepteur fugiat magna aute culpa eu mollit in. Laborum amet officia excepteur ullamco non velit officia deserunt.",
-    "dob": "1993-07-14"
+    "firstname": "Leonor"
   },
   {
     "id": "63396d60d0322464fd570615",
-    "firstname": "Levine",
-    "about": "Ipsum anim elit magna non cupidatat enim adipisicing cupidatat id nostrud qui ipsum in veniam. Esse tempor aliquip anim irure tempor qui nisi.",
-    "dob": "1991-03-13"
+    "firstname": "Levine"
   },
   {
     "id": "63396d6059632c59603983ad",
-    "firstname": "Mercedes",
-    "about": "Amet occaecat ipsum laboris exercitation dolor ea et occaecat. Eu consequat pariatur et tempor dolor laborum nostrud labore et incididunt proident.",
-    "dob": "1991-07-03"
+    "firstname": "Mercedes"
   },
   {
     "id": "63396d60d9046223bafc0f8d",
-    "firstname": "Mooney",
-    "about": "Aute pariatur qui ex occaecat tempor cillum et. Ex commodo ex nostrud ad.",
-    "dob": "1994-11-14"
+    "firstname": "Mooney"
   },
   {
     "id": "63396d604e213b9f2eb2f004",
-    "firstname": "Hunt",
-    "about": "Minim ea magna officia quis. Proident laboris ea duis laboris et quis aliquip ad mollit Lorem qui labore cillum pariatur.",
-    "dob": "1994-06-26"
+    "firstname": "Hunt"
   }
 ]
